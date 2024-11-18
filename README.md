@@ -1,0 +1,1 @@
+**User Management System** in C: Features registration and login with masked password input for added security. Supports up to 10 users, with username and password handling. Implements a simple menu-driven console interface.
